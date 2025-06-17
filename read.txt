@@ -1,0 +1,6 @@
+NA GOOGLE CLOUD PLATFORM > APIs e serviços
+
+Vamos utilizar a barra de pesquisa e digitar 'Gmail API', ative a api.
+Procure por 'credenciais' e 'criar credenciais' depois 'Id do cliente Oauth'.
+
+O 'tipo do aplicativo' deve ser 'aplicativo da web', configure e pegue as credenciais.
